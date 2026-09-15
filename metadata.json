@@ -1,0 +1,7 @@
+{
+  "name": "Rooster Coin",
+  "symbol": "ROOSTER",
+  "description": "Rooster Coin — a Jetton on the TON blockchain.",
+  "image": "https://raw.githubusercontent.com/hosseinkhanihamid/Rooster-Coin/main/rooster-coin.png",
+  "decimals": "9"
+}
